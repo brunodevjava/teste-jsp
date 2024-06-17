@@ -1,6 +1,5 @@
-# Projeto de Teste - Sinerji Gestão e Sistemas Ltda
+# Projeto de Teste
 
-Este é um projeto de teste desenvolvido para a empresa Sinerji Gestão e Sistemas Ltda por Bruno Sversutti.
 
 ## Descrição do Projeto
 
